@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <uids>
-    <uid>53:AB:FB:E3:90:00:01</uid> #Mouse#
-    <uid>D5:4C:EE:5A</uid> #Rupesh ID Card# 
-    <uid>XF:48:39:20:57:16</uid> #NTAG NPCI Sample Sticker CArds#
+    <uid>53:AB:FB:E3:90:00:01</uid> <!--Mouse-->
+    <uid>D5:4C:EE:5A</uid> <!--Rupesh ID Card-->
+    <uid>XF:48:39:20:57:16</uid> <!--NTAG NPCI Sample Sticker CArds-->
     <uid>RK:32:71:40:85:96</uid>
     <uid>CJ:64:02:17:83:59</uid>
     <uid>ZP:94:08:12:37:65</uid>
